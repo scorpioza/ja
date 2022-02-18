@@ -26,7 +26,7 @@ $PSY->base = "";
 $PSY->livesite = $PSY->livebase;
 
 $PSY->dir = new stdClass();
-$PSY->dir->content = "moon/memo";
+$PSY->dir->content = "./moon/memo";
 $PSY->dir->site = "..";
 $PSY->dir->assets = "assets";
 $PSY->dir->wiki = "wiki";
